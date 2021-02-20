@@ -7,3 +7,6 @@
 [submodule "Embedded/TS100-firmware"]
 	path = Embedded/TS100-firmware
 	url = https://github.com/Ralim/IronOS
+[submodule "GUI/slate-pixeleditor"]
+	path = GUI/slate-pixeleditor
+	url = https://github.com/mitchcurtis/slate
