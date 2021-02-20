@@ -1,0 +1,9 @@
+[submodule "EmbeddedLinux/nasa-fprime"]
+	path = EmbeddedLinux/nasa-fprime
+	url = https://github.com/nasa/fprime.git
+[submodule "GUI/nanogui-framework"]
+	path = GUI/nanogui-framework
+	url = https://github.com/mitsuba-renderer/nanogui
+[submodule "Embedded/TS100-firmware"]
+	path = Embedded/TS100-firmware
+	url = https://github.com/Ralim/IronOS
