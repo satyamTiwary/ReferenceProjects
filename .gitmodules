@@ -10,3 +10,18 @@
 [submodule "GUI/slate-pixeleditor"]
 	path = GUI/slate-pixeleditor
 	url = https://github.com/mitchcurtis/slate
+[submodule "EmbeddedLinux/axiom-firmware"]
+	path = EmbeddedLinux/axiom-firmware
+	url = https://github.com/apertus-open-source-cinema/axiom-firmware
+[submodule "docker/yocto-example"]
+	path = docker/yocto-example
+	url = https://github.com/bstubert/dr-yocto
+[submodule "EmbeddedLinux/meta-layer-example"]
+	path = EmbeddedLinux/meta-layer-example
+	url = https://github.com/bstubert/meta-cuteradio
+[submodule "GUI/simple-embedded-qt"]
+	path = GUI/simple-embedded-qt
+	url = https://github.com/bstubert/cuteradio-apps
+[submodule "EmbeddedLinux/meta-layer-complex-automotive"]
+	path = EmbeddedLinux/meta-layer-complex-automotive
+	url = https://github.com/Pelagicore/meta-pelux
