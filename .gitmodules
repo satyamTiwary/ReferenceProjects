@@ -31,3 +31,9 @@
 [submodule "EmbeddedLinux/serial-lib"]
 	path = EmbeddedLinux/serial-lib
 	url = https://github.com/wjwwood/serial
+[submodule "Cpp/MySTL"]
+	path = Cpp/MySTL
+	url = https://github.com/Alinshans/MyTinySTL
+[submodule "Python/server-pi-gpio"]
+	path = Python/server-pi-gpio
+	url = https://github.com/projectweekend/Pi-GPIO-Server
