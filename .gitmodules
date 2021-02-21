@@ -37,3 +37,6 @@
 [submodule "Python/server-pi-gpio"]
 	path = Python/server-pi-gpio
 	url = https://github.com/projectweekend/Pi-GPIO-Server
+[submodule "Python/qira"]
+	path = Python/qira
+	url = https://github.com/geohot/qira
