@@ -25,3 +25,9 @@
 [submodule "EmbeddedLinux/meta-layer-complex-automotive"]
 	path = EmbeddedLinux/meta-layer-complex-automotive
 	url = https://github.com/Pelagicore/meta-pelux
+[submodule "Cpp/faking-lib"]
+	path = Cpp/faking-lib
+	url = https://github.com/eranpeer/FakeIt
+[submodule "EmbeddedLinux/serial-lib"]
+	path = EmbeddedLinux/serial-lib
+	url = https://github.com/wjwwood/serial
