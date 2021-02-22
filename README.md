@@ -1,4 +1,5 @@
 # ReferenceProjects
+Following are open source repositories for educational purpose. They focus around modern firmware development.
 
 1. Cpp
     - MyTinySTL
