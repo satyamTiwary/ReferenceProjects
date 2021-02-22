@@ -16,9 +16,10 @@ Following are open source repositories for educational purpose. They focus aroun
 4. GUI
     - Nano, GUI framework
     - cuteradio-apps, A trivial Qt/Qml Application
-    - Slate Pixel Editor, A non-trivial medium complexity Qml Project
+    - Slate Pixel Editor, A non-trivial Qml Project (medium scale)
 5. Python
     - Qira, a debugger using a socket driven local web ui
     - Raspberry pi based IOT device, with a simple server and ui
+    - Cura, Python project using pyqt5 (medium scale)
 6. Docker
     - simple docker setup for yocto builds
