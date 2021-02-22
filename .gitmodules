@@ -40,3 +40,6 @@
 [submodule "Python/qira"]
 	path = Python/qira
 	url = https://github.com/geohot/qira
+[submodule "Cpp/good-cmake-project-starter"]
+	path = Cpp/good-cmake-project-starter
+	url = https://github.com/lefticus/cpp_starter_project
