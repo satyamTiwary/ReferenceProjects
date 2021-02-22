@@ -43,3 +43,15 @@
 [submodule "Cpp/good-cmake-project-starter"]
 	path = Cpp/good-cmake-project-starter
 	url = https://github.com/lefticus/cpp_starter_project
+[submodule "Embedded/ArduinoCore-API"]
+	path = Embedded/ArduinoCore-API
+	url = https://github.com/arduino/ArduinoCore-API
+[submodule "Embedded/Arduino-ESP32"]
+	path = Embedded/Arduino-ESP32
+	url = https://github.com/espressif/arduino-esp32
+[submodule "Embedded/Esp32-ST7789-display-driver"]
+	path = Embedded/Esp32-ST7789-display-driver
+	url = https://github.com/nopnop2002/esp-idf-st7789
+[submodule "Embedded/LVGL-ESP32"]
+	path = Embedded/LVGL-ESP32
+	url = https://github.com/lvgl/lv_port_esp32
