@@ -58,3 +58,6 @@
 [submodule "Embedded/minimal-gui-library"]
 	path = Embedded/minimal-gui-library
 	url = https://github.com/ryankurte/micro-gui
+[submodule ".\\Embedded\\pineTime"]
+	path = .\\Embedded\\pineTime
+	url = https://github.com/JF002/InfiniTime
