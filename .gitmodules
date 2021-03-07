@@ -61,3 +61,6 @@
 [submodule ".\\Embedded\\pineTime"]
 	path = .\\Embedded\\pineTime
 	url = https://github.com/JF002/InfiniTime
+[submodule "Python/architecture-patterns-DDD-book"]
+	path = Python/architecture-patterns-DDD-book
+	url = https://github.com/cosmicpython/code
