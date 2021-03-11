@@ -13,8 +13,8 @@
 [submodule "EmbeddedLinux/axiom-firmware"]
 	path = EmbeddedLinux/axiom-firmware
 	url = https://github.com/apertus-open-source-cinema/axiom-firmware
-[submodule "docker/yocto-example"]
-	path = docker/yocto-example
+[submodule "Docker/yocto-example"]
+	path = Docker/yocto-example
 	url = https://github.com/bstubert/dr-yocto
 [submodule "EmbeddedLinux/meta-layer-example"]
 	path = EmbeddedLinux/meta-layer-example
