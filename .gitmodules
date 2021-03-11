@@ -64,3 +64,6 @@
 [submodule "Python/architecture-patterns-DDD-book"]
 	path = Python/architecture-patterns-DDD-book
 	url = https://github.com/cosmicpython/code
+[submodule "GUI/ics-embedded-qt-ventilator"]
+	path = GUI/ics-embedded-qt-ventilator
+	url = https://github.com/githubics/VentilatorSoftware
