@@ -67,3 +67,9 @@
 [submodule "GUI/ics-embedded-qt-ventilator"]
 	path = GUI/ics-embedded-qt-ventilator
 	url = https://github.com/githubics/VentilatorSoftware
+[submodule "GUI/raspiraworks-embedded-qt-ventilator"]
+	path = GUI/raspiraworks-embedded-qt-ventilator
+	url = https://github.com/RespiraWorks/Ventilator
+[submodule "GUI/ics-qt-media-manager"]
+	path = GUI/ics-qt-media-manager
+	url = https://github.com/githubics/MediaManager
